@@ -55,4 +55,4 @@ python tests/test_stacks.py
 
 ---
 
-**Integrante:** Vinícius Gabriel Zanatta
+**Integrantes:** Vinícius Gabriel Zanatta, Helio Costa, Leonardo Henrique
